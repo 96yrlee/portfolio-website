@@ -8,3 +8,12 @@ http://slides.com/alexandraulsh/build-your-own-website-with-cloud9-and-github-pa
 
 
 http://todc.github.io/todc-bootstrap/getting-started/
+
+
+EXAMPLES:
+
+http://www.williamjewett.com/
+
+https://www.seanhammett.com/
+
+https://yulimlee.carbonmade.com/
