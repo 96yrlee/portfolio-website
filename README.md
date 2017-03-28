@@ -16,4 +16,11 @@ http://www.williamjewett.com/
 
 https://www.seanhammett.com/
 
+https://seelio.com/p/3pr/kirsten-lim
+
+https://eujinooi.wordpress.com/category/engineering/
+
+
+OLD:
+
 https://yulimlee.carbonmade.com/
