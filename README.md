@@ -1,8 +1,8 @@
-# portfolio-website
-My personal website
+# Portfolio-website
+My personal website: https://96yrlee.github.io/portfolio-website/
 
-Link: https://96yrlee.github.io/portfolio-website/
 
+### Guides:
 
 http://slides.com/alexandraulsh/build-your-own-website-with-cloud9-and-github-pages/#/0/89
 
@@ -10,7 +10,12 @@ http://slides.com/alexandraulsh/build-your-own-website-with-cloud9-and-github-pa
 http://todc.github.io/todc-bootstrap/getting-started/
 
 
-EXAMPLES:
+### Guide/Example:
+
+https://github.com/githubteacher/githubteacher.github.io
+
+
+### EXAMPLES:
 
 http://www.williamjewett.com/
 
